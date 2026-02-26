@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 ITZFIZZ Scroll Experience
 
-# Run and deploy your AI Studio app
+A modern scroll-driven animation website built using **React, GSAP, and TailwindCSS**.
 
-This contains everything you need to run your app locally.
+This project demonstrates advanced animation techniques including:
 
-View your app in AI Studio: https://ai.studio/apps/25f8dd4b-e32e-40ca-bba7-c0ef9ac99431
+- SVG Loader Animation
+- Scroll-based object movement
+- Custom animated cursor
+- Staggered hero animations
+- Smooth GSAP timelines
+- Responsive design with TailwindCSS
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+### 🎬 SVG Loader Animation
+- Custom animated SVG logo
+- Stroke-draw effect using GSAP
+- Smooth fade-out transition into hero section
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🎯 Hero Section Animations
+- Text reveal animation
+- Staggered stat cards
+- Scroll indicator fade-in
+
+### 🚗 Scroll-Based Motion
+- Horizontal object movement using ScrollTrigger
+- Sticky scroll section
+- Smooth scrub animations
+
+### 🖱 Custom Cursor
+- Animated primary cursor
+- Smooth follower with lerp effect
+- Interactive hover scaling
+
+### 📱 Fully Responsive
+- Adaptive layout
+- Conditional rendering (logo hidden below 1056px)
+- Fluid typography and spacing
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛ React (Vite)
+- 🎞 GSAP
+- 🧩 ScrollTrigger
+- 🎨 TailwindCSS
+- 🧠 Lucide Icons
