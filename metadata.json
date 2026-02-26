@@ -1,0 +1,5 @@
+{
+  "name": "Fizz Scroll Experience",
+  "description": "A premium scroll-driven hero animation with GSAP ScrollTrigger, featuring staggered reveals and smooth object interpolation.",
+  "requestFramePermissions": []
+}
